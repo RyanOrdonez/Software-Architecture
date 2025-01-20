@@ -1,30 +1,24 @@
-# Software Architecture for Big Data
+# Software Architecture
 
-This repository contains coursework and projects from my Software Architecture courses focused on Big Data.
+This repository contains coursework and projects for the Software Architecture track.
 
-## Courses Included
+## Course Structure
 
-### Software Architecture
-- DTSA 5507: Fundamentals of Software Architecture for Big Data
-- DTSA 5508: Software Architecture Patterns for Big Data
+### Statistical Learning Track
+- DTSA_5020_Regression_and_Classification
+- DTSA_5021_Resampling_Selection_and_Splines
+- DTSA_5022_Trees_SVM_and_Unsupervised_Learning
 
-## Repository Structure
+### Architecture Track
+- DTSA_5507_Software_Architecture_and_Design
+- DTSA_5508_Software_Architecture_Patterns_for_Big_Data
 
-```
-├── Fundamentals/
-└── Architecture-Patterns/
-```
+### Capstone
+- DTSA_5841_IBM_Capstone_Project
 
-## Technologies Used
-- Big Data frameworks
-- Distributed systems
-- Architecture design tools
-- System modeling software
-
-## Course Projects and Assignments
-Each course directory contains:
-- Architecture diagrams
-- System designs
-- Pattern implementations
-- Case studies
-- Project documentation
+## Directory Structure
+Each course folder contains:
+- `data/`: Datasets used in the course
+- `course_material/`: Lectures, notes, and resources
+- `projects/`: Course assignments and projects
+- Course overview Jupyter notebook
